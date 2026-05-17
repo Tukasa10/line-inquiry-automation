@@ -1,0 +1,10 @@
+.env
+.env.*
+*.log
+.DS_Store
+PROJECT_STATUS_PRIVATE.md
+secrets.*
+credentials.*
+client_secret*.json
+.clasp.json
+.clasprc.json
